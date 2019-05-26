@@ -1,0 +1,9 @@
+﻿  Macro.cpp
+c:\users\i love my girlfriend\desktop\app portfolio\caloriecalculator\caloriecalculator\macro.cpp(87): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i love my girlfriend\desktop\app portfolio\caloriecalculator\caloriecalculator\macro.cpp(91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i love my girlfriend\desktop\app portfolio\caloriecalculator\caloriecalculator\macro.cpp(127): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\i love my girlfriend\desktop\app portfolio\caloriecalculator\caloriecalculator\macro.cpp(130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  CalorieCalculator.cpp
+  CalorieCalculator.vcxproj -> C:\Users\i love my girlfriend\Desktop\App Portfolio\CalorieCalculator\Debug\CalorieCalculator.exe
